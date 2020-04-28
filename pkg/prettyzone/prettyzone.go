@@ -9,7 +9,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/StackExchange/dnscontrol/v3/models"
+	"github.com/mholt/dnscontrol/v3/models"
 	"github.com/miekg/dns"
 )
 

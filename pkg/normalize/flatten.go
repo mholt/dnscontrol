@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/StackExchange/dnscontrol/v3/models"
-	"github.com/StackExchange/dnscontrol/v3/pkg/spflib"
+	"github.com/mholt/dnscontrol/v3/models"
+	"github.com/mholt/dnscontrol/v3/pkg/spflib"
 )
 
 // hasSpfRecords returns true if this record requests SPF unrolling.

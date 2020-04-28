@@ -6,8 +6,8 @@ import (
 
 	"github.com/gobwas/glob"
 
-	"github.com/StackExchange/dnscontrol/v3/models"
-	"github.com/StackExchange/dnscontrol/v3/pkg/printer"
+	"github.com/mholt/dnscontrol/v3/models"
+	"github.com/mholt/dnscontrol/v3/pkg/printer"
 )
 
 // Correlation stores a difference between two domains.

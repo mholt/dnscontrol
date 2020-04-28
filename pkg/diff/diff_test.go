@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/StackExchange/dnscontrol/v3/models"
+	"github.com/mholt/dnscontrol/v3/models"
 )
 
 func myRecord(s string) *models.RecordConfig {
